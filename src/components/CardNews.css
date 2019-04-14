@@ -1,0 +1,8 @@
+.card{
+  padding: 20px;
+  display: inline-block;
+  margin: 15px;
+  align-items: center;
+  border-color: black;
+  border-width: thick;
+}

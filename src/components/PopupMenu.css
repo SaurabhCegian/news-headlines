@@ -1,0 +1,10 @@
+
+h3{
+color: red,
+}
+
+.ui.segment.Button {
+  background: red;
+  border-radius: 8px;
+  color: white;
+}
